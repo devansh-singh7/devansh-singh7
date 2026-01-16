@@ -1,4 +1,19 @@
 ## Hi there 👋- 🚀 Welcome to my GitHub
+I'm Devansh Singh, a developer who enjoys building, breaking, and rebuilding things with code.
+Always curious..... Always learning.....
+
+- 💻 Working with: MERN Stack
+- 🌱 Currently learning: Next.js
+- 🚀 Interested in: Open source, system design, and performance optimization.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
+</p>
+
+<p align="center">
+  🚀 MERN Stack Developer passionate about building scalable web applications
+</p>
+
 
 <!--
 **devansh-singh7/devansh-singh7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
