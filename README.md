@@ -10,6 +10,13 @@ Always curious..... Always learning.....
   <img src="https://readme-typing-svg.demolab.com?lines=MERN+Stack+Developer;MongoDB+Express+React+Node.js;Full+Stack+Web+Developer&center=true&width=550">
 </p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
+</p>
+
+<p align="center">
+  🚀 Passionate about building scalable web applications
+</p>
 
 
 <!--
