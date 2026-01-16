@@ -15,11 +15,8 @@ Always curious..... Always learning.....
 </p>
 
 <p align="center">
-  🚀 Passionate about building scalable web applications
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  🚀 Passionate about building scalable web applications.
+  💻 Playing with frontend frameworks and libraries to make cool stuff.
 </p>
 
 
