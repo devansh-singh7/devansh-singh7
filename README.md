@@ -16,6 +16,9 @@ Always curious..... Always learning.....
 
 <p align="center">
   🚀 Passionate about building scalable web applications.
+</p>
+
+<p align="center">
   💻 Playing with frontend frameworks and libraries to make cool stuff.
 </p>
 
