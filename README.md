@@ -7,12 +7,9 @@ Always curious..... Always learning.....
 - 🚀 Interested in: Open source, system design, and performance optimization.
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
+  <img src="https://readme-typing-svg.demolab.com?lines=MERN+Stack+Developer;MongoDB+Express+React+Node.js;Full+Stack+Web+Developer&center=true&width=550">
 </p>
 
-<p align="center">
-  🚀 MERN Stack Developer passionate about building scalable web applications
-</p>
 
 
 <!--
