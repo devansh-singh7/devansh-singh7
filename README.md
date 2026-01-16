@@ -18,6 +18,11 @@ Always curious..... Always learning.....
   🚀 Passionate about building scalable web applications
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+
 
 <!--
 **devansh-singh7/devansh-singh7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
